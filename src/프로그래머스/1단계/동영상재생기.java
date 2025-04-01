@@ -1,6 +1,6 @@
 package 프로그래머스.1단계;
 
-class 동영상재생기기 {
+class 동영상재생기 {
     public String solution(String video_len, String pos, String op_start, String op_end, String[] commands) {
         String answer = "";
         
