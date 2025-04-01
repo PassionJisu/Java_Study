@@ -1,4 +1,4 @@
-<center> # Java Study 📚 </center>
+<center> <h3> Java Study 📚 </h3></center>
 
 - Java 학습 내용을 정리하는 저장소입니다.  
 - 주로 프로그래머스에서 교육을 듣고 정리하였으며, 코딩테스트 문제들을 하나씩 풀어나가 정리하고 있습니다.
