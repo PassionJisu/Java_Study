@@ -1,4 +1,4 @@
-<center><h3> Java Study 📚 </h3></center>
+<h3> Java Study 📚 </h3>
 
 
 - Java 학습 내용을 정리하는 저장소입니다.  
