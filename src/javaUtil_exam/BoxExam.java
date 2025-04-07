@@ -1,4 +1,4 @@
-package javaUtil_exam;
+package javautil_exam;
 
 public class BoxExam {
     public static void main(String[] args) {
