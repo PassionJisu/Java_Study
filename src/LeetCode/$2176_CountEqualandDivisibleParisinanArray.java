@@ -1,6 +1,6 @@
 package LeetCode;
 
-public class 2176_CountEqualandDivisibleParisinanArray {
+public class $2176_CountEqualandDivisibleParisinanArray {
     public int countPairs(int[] nums, int k) {
         int count = 0;
         int n = nums.length;
