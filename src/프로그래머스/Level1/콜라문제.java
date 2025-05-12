@@ -3,7 +3,7 @@ public class 콜라문제 {
         int totalCoke = 0;
         int currentCoke = n;
 
-        while(currentCoke >= 2 && currentCoke / a != 0){
+        while(currentCoke >= 2 && currentCoke / a != 0){ //조건을 단순히 currentCoke >= a 로 하는 게 더 깔끔끔
             totalCoke += (currentCoke / a) * b;
             currentCoke = (currentCoke / a) * b + currentCoke % a;
         }
