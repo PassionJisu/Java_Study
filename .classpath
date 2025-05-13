@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="프로그래머스/Level1/|test/|제어문(조건문, 반복문)/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="src" path="src/제어문(조건문, 반복문)"/>
+	<classpathentry kind="src" path="src/프로그래머스/Level1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
